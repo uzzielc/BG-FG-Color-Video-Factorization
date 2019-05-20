@@ -10,3 +10,5 @@ The source code provided is written for use in matlab. The code will work for on
 <h2>
 Traffic.mp4
 </h2>
+
+An example of what the algorithm will produce after feeding in a video. 
