@@ -10,6 +10,10 @@
 </p>
 
 <p>
+  The file names for loading and writing the video files should changed if the code is to be used. 
+</p>
+
+<p>
 The output of the algorithm will be a video file which shows the original video, the foreground approximation, and the background approximation side by side.
 <p>
 
