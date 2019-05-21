@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  The filenames for loading and writing the video files should changed if the code is to be used. 
+  The filenames for loading and writing the video files should be changed if the code is to be used. 
 </p>
 
 <p>
